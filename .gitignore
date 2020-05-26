@@ -1,4 +1,7 @@
 vivaio.csv
 venv
+scraped
 edit.py
 *.csv
+*.txt
+*.py
